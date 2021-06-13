@@ -1,6 +1,6 @@
 // Java implementation of Linear Search
 
-class COP {
+class LinearSearch {
 
     // Linearly search x in arr[]. If x is present then
     // return the index, otherwise return -1
