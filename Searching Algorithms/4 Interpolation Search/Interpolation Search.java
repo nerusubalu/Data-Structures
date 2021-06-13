@@ -3,7 +3,7 @@
 // search with recursion
 import java.util.*;
 
-class GFG {
+class interpolation {
 
     // If x is present in arr[0..n-1], then returns
     // index of it, else returns -1.
