@@ -1,7 +1,7 @@
 # Python 3 implementation of linear Search
 
-# Linearly search x in arr[]. If x is present
-# then return the index, otherwise return -1
+# Linearly search x in arr[].
+# If x is present then return the index, otherwise return -1
 
 
 def search(arr, x):
