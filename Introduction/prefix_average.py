@@ -1,8 +1,10 @@
 '''
-Write a program to calculate the prefix sum
+Write a program to calculate the prefix average
 Eg: 
 [1,2,3,4,5]
 [1, 3, 6, 10, 15]
+
+We can use the same logic to solve prefix sum
 '''
 
 #O(n^2) Solution
