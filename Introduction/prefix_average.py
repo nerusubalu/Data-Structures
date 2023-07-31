@@ -23,10 +23,10 @@ def prefix_average(arr):
 def prefix_average_v2(arr):
     n = len(arr)
     sum_list = []
-    sum = 0
+    sum_val = 0
     for i in range(n):
-        sum+=arr[i]
-        sum_list.append(sum/(i+1))
+        sum_val+=arr[i]
+        sum_list.append(sum_val/(i+1))
 
     return sum_list
 
